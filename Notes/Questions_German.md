@@ -29,7 +29,7 @@ Drei pro Strecke:
 
 ## Erfüllung der Aufgabe mit allen (benutzten) Eingabegeräten möglich ?
 
-Ja
+-  Alle aufgelisteten Eingabegeräte sind Nutzbar
 
 ## Wann ist eine Benutzer Aufgabe messbar erfüllt ?
 -  1 Stern:
@@ -43,5 +43,47 @@ Ja
     -  Alles von "2 Sterne"
     -  Bestzeit schlagen oder als erster das Ziel erreichen
 
-    
+## Barrierefrei ?
 
+-  Farbblindenmodus (Rot-Grün)
+-  Sprachausgabe
+-  Untertitel
+
+## Sind sie auch mit Handicap zu nutzen ?
+
+- Nutzerbar solange grundlegende Sehfähigkeit und Hände vorhanden sind.
+
+## Wie kann ich den Benutzer dabei unterstützen, die Ziele schnell und effektiv zu finden ?
+
+-  Minimap/Radar
+
+## Was tun, wenn er vom Weg abweicht ?
+
+-  Beim falsch Fahren/stehen bleiben etc. tweetet Donald Trump(Gegner in der Story) über dich. Dies wird eingeblendet.
+
+## Welche Navigations-Methoden/Techniken sind sinnvoll ?
+
+-  Minimap
+-  Richtungspfeil der eingeblendet wird
+
+## Sind diese Verfahren einfach in der Anwendung und motivierend ?
+
+-  Ja, sind sie.
+
+## Ist die Aufgabe/Story motivierend für den Benutzer ?
+
+-  Ja, sehr motivierend.
+
+## Welche Evaluierungsform ?
+
+-  Zuschauen beim Spielen(Verschiedene Spieler). Aufteilen in Menü/Steuerung und eigentlichem Gameplay.
+-  Gesrpäche mit den Spieler(nach vorher verfasstem Gesprächsleitfaden)
+
+## Ist das Erreichen der Ziele messbar?
+
+-  Ja ist es. Die Ziele sind in diesem Fall physikalische Ziele im Spiel und so gut vom Spieler erfassbar und auch durch das Spiel messbar.
+
+## Wie wird gute Nutzbarkeit, Wohlbefinden des Users, sichergestellt?
+
+-  Durch die Evaluation wird sichergestellt das der Nutzer sich beim spielen des Spiels wohlfühlt.
+-  Eigene Tests der Entwickler
